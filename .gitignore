@@ -1,0 +1,9 @@
+# Secrets and local configurations
+config.env
+*.env
+!example.config.env
+
+# Certificates and private keys
+*.pem
+*.key
+*.crt
